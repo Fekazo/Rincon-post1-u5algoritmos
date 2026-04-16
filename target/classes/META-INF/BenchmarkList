@@ -1,0 +1,2 @@
+JMH S 37 rincon.post1.u5.grafos.GraphBenchmark S 67 rincon.post1.u5.grafos.jmh_generated.GraphBenchmark_bfsList_jmhTest S 7 bfsList S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 7 density 3 16 zBAcAEGAyBwcAUGA 16 tBQZAQGApBQdA0GA 16 kBQZA4GAzBQZAA== E E E 
+JMH S 37 rincon.post1.u5.grafos.GraphBenchmark S 69 rincon.post1.u5.grafos.jmh_generated.GraphBenchmark_bfsMatrix_jmhTest S 9 bfsMatrix S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 7 density 3 16 zBAcAEGAyBwcAUGA 16 tBQZAQGApBQdA0GA 16 kBQZA4GAzBQZAA== E E E 

@@ -1,0 +1,8 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,rincon/post1/u5/grafos/GraphBenchmark.bfsList
+inline,rincon/post1/u5/grafos/GraphBenchmark.bfsMatrix
+inline,rincon/post1/u5/grafos/GraphBenchmark.setup
